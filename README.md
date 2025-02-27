@@ -4,12 +4,12 @@
 
 ---
 #### 👤 Descripcion
----
+
 me considero alguien tranquilo, me gusta salir adelante no quedarme en un lugar estancado , a veces me gusta ayudar a la gente que lo necesita , me gusta conocer lugares y cosas nuevas y tambien me gustaria viajar por todo el mundo.
 
 ---
 #### 💼 Experiencia laboral
----
+
 ##### ROOTT+CO
 ###### Auxiliar en sistemas
 abril de 2024 - octubre 2024 (pasantia 6 meses)
@@ -22,7 +22,7 @@ Febrero 2025 - presente
 
 ---
 #### 🎓 Estudios obtenidos
----
+
 ######  Bachiller academico
 *Jose Joaquin Florez Hernandez*  --- Febrero de 2017 - Diciembre de 2022
 ###### Tecnico en sistemas
