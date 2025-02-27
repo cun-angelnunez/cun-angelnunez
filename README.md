@@ -22,7 +22,7 @@ Febrero 2025 - presente
 
 ---
 #### 🎓 Estudios obtenidos
----
+--
 ######  Bachiller academico
 *Jose Joaquin Florez Hernandez*  --- Febrero de 2017 - Diciembre de 2022
 ###### Tecnico en sistemas
