@@ -24,6 +24,6 @@ Febrero 2025 - presente
 
 | Compañeros | Link del perfil |
 | ------ | ------ |
-| Juana Barrig | https://github.com/cunjuanabarriga |
+| Juana Barriga | https://github.com/cunjuanabarriga |
 | Sara |... |
 
