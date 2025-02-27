@@ -15,13 +15,15 @@ octubre de 2024 - Diciembre de 2024 (2 meses)
 ##### AGINTECO solar 
 ###### Auxiliar de obra
 Febrero 2025 - presente 
----
 #### 🎓 Estudios obtenidos
+---
 ######  Bachiller academico
 *Jose Joaquin Florez Hernandez*  --- Febrero de 2017 - Diciembre de 2022
 ###### Tecnico en sistemas
-*Servicio nacional de aprendizaje (SENA)* --- Junio de 2023 - Noviembre 2024
+*Servicio nacional de aprendizaje (SENA)+* --- Junio de 2023 - Noviembre 2024
+
 ---
+
 | Compañeros | Link del perfil |
 | ------ | ------ |
 | Juana Barriga | https://github.com/cunjuanabarriga |
