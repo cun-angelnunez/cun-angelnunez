@@ -1,3 +1,4 @@
+
 # Angel Daniel Nuñez Caicedo
 ---
 #### Ingenieria en sistemas | primer semestre
@@ -33,5 +34,6 @@ Febrero 2025 - presente
 | Compañeros | Link del perfil |
 | ------ | ------ |
 | Juana Barriga | https://github.com/cunjuanabarriga |
-| Sara |... |
+| Sara Salazar | https://github.com/cunsarasalazar |
+
 
